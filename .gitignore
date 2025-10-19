@@ -99,7 +99,11 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /Assets
+=======
+/Assets/Terrain*
+>>>>>>> c175fcf (first commit)
 =======
 /Assets/Terrain*
 >>>>>>> c175fcf (first commit)
